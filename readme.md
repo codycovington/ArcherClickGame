@@ -12,4 +12,4 @@ The Archer Click Game UI is built in React. Upon page load, the user can click o
 <li>Semantic UI for React</li>
 
 ### Disclosure
-Archer is a trademark of FX Networks LLC. This project is intended for programming demonstration only.
+Archer is a trademark of FX Networks LLC. This project is not endorsed or sponsered by FX Networks and is intended only for programming demonstration only.
