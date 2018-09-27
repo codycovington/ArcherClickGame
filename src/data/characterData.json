@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "https://image.ibb.co/cSBQmp/archer.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://image.ibb.co/gRhbsU/malory.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://image.ibb.co/bGHnz9/lana.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://image.ibb.co/iPSbsU/cyril.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://image.ibb.co/nESWRp/pam.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://image.ibb.co/chREe9/cheryl.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://image.ibb.co/iv7LK9/gillette.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://image.ibb.co/b8nWRp/krieger.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://image.ibb.co/iG2y6p/ron.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://image.ibb.co/nLYGsU/barry.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://image.ibb.co/n9zpCU/general.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://image.ibb.co/fizZe9/katya.jpg",
+    "clicked": false
+  }
+]
