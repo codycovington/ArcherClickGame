@@ -6,6 +6,6 @@ The Archer Click Game UI is built in React. Upon page load, the user can click o
 
 ### Frameworks:
 
-React
-HTML5 Audio
-Semantic UI for React
+<li>React</li>
+<li>HTML5 Audio</li>
+<li>Semantic UI for React</li>
